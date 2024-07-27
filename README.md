@@ -14,8 +14,8 @@ I'm a passionate student at Cairo University with a keen interest in data scienc
 ### Education
 
 - **Cairo University**
-  - Bachelor of [Computer Science And Artificial Intelligence], Expected Graduation: [2026]
-  - Relevant Coursework: [Inferential Statistics], [Linear Algebra], [Calculas 2]
+  - Bachelor of Computer Science And Artificial Intelligence, Expected Graduation: 2026
+  - Relevant Coursework: Inferential Statistics, Linear Algebra, Calculas 2
 
 ### Connect with Me
 
