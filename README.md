@@ -1,44 +1,58 @@
-# [cite_start]Hi there, I'm Hatem Salem [cite: 4]
+# Hi, I'm Hatem Salem
 
-[cite_start]I'm an AI Engineer [cite: 9] [cite_start]and a Computer Science and Artificial Intelligence student at Cairo University, where I'm ranked first in the AI Department[cite: 24, 25].
+I'm an **AI Engineer** passionate about building intelligent systems that combine language, vision, and reasoning. My work spans from **fine-tuning LLMs** and **building AI agents** to **computer vision** and **classical ML** applications — all with a focus on clean, scalable, and practical solutions.
 
-[cite_start]My passion lies in building clean, scalable AI solutions[cite: 9]. I have hands-on experience in:
-* [cite_start]Fine-tuning Large Language Models (LLMs)[cite: 9, 57].
-* [cite_start]Designing and building RAG pipelines and AI Agents[cite: 9, 57].
-* [cite_start]Fine-tuning Computer Vision architectures for object detection and classification[cite: 9].
-* [cite_start]Implementing Classical Machine Learning techniques for data-driven applications[cite: 9, 57].
+Currently, I’m studying **Computer Science and Artificial Intelligence at Cairo University**, where I rank **1st in the AI Department (GPA 3.87)**.  
 
 ---
 
-## What I Work With
+## What I Do
 
-Here are some of the primary tools and technologies I use to build projects:
+- Design and fine-tune **Large Language Models** for specialized tasks  
+- Build **Retrieval-Augmented Generation (RAG)** and **AI Agent** systems  
+- Develop **computer vision models** for detection and classification  
+- Engineer **robust ML pipelines** using **PyTorch**, **LangChain**, **FastAPI**, and **AWS**
 
-* [cite_start]**Machine Learning / Deep Learning:** Pytorch, Langchain, HuggingFace's Transformers, Sci-kit Learn, Langgraph [cite: 38, 59]
-* [cite_start]**AI Deployment / Frameworks:** FastAPI, VLLM, Ollama, Streamlit [cite: 38, 54, 59]
-* [cite_start]**Databases / Vector Stores:** MS SQL Server, SQLite, ChromaDB [cite: 38, 60]
-* [cite_start]**Cloud:** AWS Cloud Architecture [cite: 62]
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL  
+**Frameworks & Tools:** PyTorch, LangChain, HuggingFace, FastAPI, Scikit-learn, Streamlit, vLLM  
+**Databases:** ChromaDB, SQLite, MS SQL Server  
+**Cloud:** AWS (Cloud Architecture & ML Engineer)  
+**Other:** Weights & Biases, Ollama, MMR Retrieval  
+
+---
+
+## Experience
+
+**AI & Data Intern — Banque Misr** *(Aug – Sep 2025)*  
+Gained exposure to real-world enterprise data pipelines, implemented SQL solutions, and explored distributed systems for large-scale data handling.
+
+**AWS ML Engineer — Digital Egypt Pioneers Initiative (DEPI)** *(Jul – Oct 2024)*  
+Designed scalable ML solutions on AWS, aligned with the **Well-Architected Framework**, and earned the **AWS Academy Cloud Architecting** badge.
 
 ---
 
 ## Recent Projects
 
-Here are a few of the projects I've been working on recently.
+### [Obsidian Notes Agent](#)
+*LangChain, LangGraph, FastAPI, ChromaDB*  
+A RAG-powered assistant for Obsidian that can summarize and answer questions based on your notes.  
 
-### [cite_start]Obsidian Notes Agent [cite: 31]
-* [cite_start]A RAG-based application designed to turn a personal Obsidian Vault of markdown notes into an interactive assistant you can chat with[cite: 32].
-* [cite_start]It features a Q&A retrieval pipeline and a ReAct Agent architecture for summarization tasks[cite: 36, 37].
-* [cite_start]Built using Langchain, Langgraph, FastAPI for the backend, and ChromaDB for vector storage[cite: 38].
-* [cite_start]**[Link to Repository]** ### GPT2 Building and Finetuning [cite: 39]
-* [cite_start]A from-scratch implementation of the GPT-2 architecture, including the core Attention Mechanism, using only simple Pytorch layers[cite: 41, 43].
-* [cite_start]After building the architecture, I loaded the official pre-trained weights [cite: 44] [cite_start]and fine-tuned the model on an email spam classification task[cite: 41, 45].
-* [cite_start]Tracked experiments and different fine-tuning strategies (like unfreezing only the last layer vs. the last transformer block) using Weights & Biases[cite: 46, 47].
-* [cite_start]**[Link to Repository]** ### Voice Gender Classification App [cite: 48]
-* [cite_start]A web application that predicts a speaker's gender (Male/Female) from a voice recording[cite: 49].
-* [cite_start]The system analyzes key acoustic features from the audio [cite: 52] [cite_start]and uses a Naive Bayes classifier [cite: 49] for the prediction.
-* [cite_start]Includes a simple frontend built with Streamlit[cite: 54].
-* **[Link to Repository]** ---
+### [GPT2 From Scratch & Fine-tuning for Spam Detection](#)
+*PyTorch, Weights & Biases*  
+Built GPT-2 architecture from scratch and fine-tuned it for email spam classification.  
 
-## Let's Connect
+### [Voice Gender Classification App](#)
+*Scikit-learn, Librosa, Streamlit*  
+Developed a web app that predicts speaker gender from audio recordings using classical ML.  
 
-* [cite_start]**LinkedIn:** `https://www.linkedin.com/in/HatemSal` * **Email:** `hatemsalem2009@gmail.com` [cite: 6]
+
+
+## Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/hatemsal](https://www.linkedin.com/in/hatemsal/)  
+- **GitHub:** [github.com/HatemSal](https://github.com/HatemSal)  
+- **Email:** [hatemsalem2009@gmail.com](mailto:hatemsalem2009@gmail.com)
