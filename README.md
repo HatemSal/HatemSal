@@ -2,8 +2,6 @@
 
 I'm an **AI Engineer** passionate about building intelligent systems that combine language, vision, and reasoning. My work spans from **fine-tuning LLMs** and **building AI agents** to **computer vision** and **classical ML** applications — all with a focus on clean, scalable, and practical solutions.
 
-Currently, I’m studying **Computer Science and Artificial Intelligence at Cairo University**, where I rank **1st in the AI Department (GPA 3.87)**.  
-
 ---
 
 ## What I Do
@@ -22,16 +20,6 @@ Currently, I’m studying **Computer Science and Artificial Intelligence at Cair
 **Databases:** ChromaDB, SQLite, MS SQL Server  
 **Cloud:** AWS (Cloud Architecture & ML Engineer)  
 **Other:** Weights & Biases, Ollama, MMR Retrieval  
-
----
-
-## Experience
-
-**AI & Data Intern — Banque Misr** *(Aug – Sep 2025)*  
-Gained exposure to real-world enterprise data pipelines, implemented SQL solutions, and explored distributed systems for large-scale data handling.
-
-**AWS ML Engineer — Digital Egypt Pioneers Initiative (DEPI)** *(Jul – Oct 2024)*  
-Designed scalable ML solutions on AWS, aligned with the **Well-Architected Framework**, and earned the **AWS Academy Cloud Architecting** badge.
 
 ---
 
