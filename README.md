@@ -37,15 +37,15 @@ Designed scalable ML solutions on AWS, aligned with the **Well-Architected Frame
 
 ## Recent Projects
 
-### [Obsidian Notes Agent](#)
+### [Obsidian Notes Agent](https://github.com/HatemSal/ObsidianNotes-Assistant)
 *LangChain, LangGraph, FastAPI, ChromaDB*  
 A RAG-powered assistant for Obsidian that can summarize and answer questions based on your notes.  
 
-### [GPT2 From Scratch & Fine-tuning for Spam Detection](#)
+### [GPT2 From Scratch & Fine-tuning for Spam Detection](https://github.com/HatemSal/gpt2fromscratch)
 *PyTorch, Weights & Biases*  
 Built GPT-2 architecture from scratch and fine-tuned it for email spam classification.  
 
-### [Voice Gender Classification App](#)
+### [Voice Gender Classification App](https://github.com/HatemSal/Voice_Gender_Classification)
 *Scikit-learn, Librosa, Streamlit*  
 Developed a web app that predicts speaker gender from audio recordings using classical ML.  
 
