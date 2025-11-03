@@ -15,11 +15,11 @@ I'm an **AI Engineer** passionate about building intelligent systems that combin
 
 ## Tech Stack
 
-**Languages:** Python, SQL  
-**Frameworks & Tools:** PyTorch, LangChain, HuggingFace, FastAPI, Scikit-learn, Streamlit, vLLM  
+**Languages:** Python, SQL, C++, Java 
+**Frameworks & Tools:** PyTorch, LangChain, HuggingFace, FastAPI, Scikit-learn, Streamlit, vLLM, Tensorflow  
 **Databases:** ChromaDB, SQLite, MS SQL Server  
 **Cloud:** AWS (Cloud Architecture & ML Engineer)  
-**Other:** Weights & Biases, Ollama, MMR Retrieval  
+**Other:** Weights & Biases, Ollama,   
 
 ---
 
