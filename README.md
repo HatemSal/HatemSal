@@ -5,25 +5,28 @@ I'm an **AI Engineer** passionate about building intelligent systems that combin
 ---
 
 ## What I Do
-
+- Build robust agentic solutions using suitable agentic patterns and designs
 - Design and fine-tune **Large Language Models** for specialized tasks  
 - Build **Retrieval-Augmented Generation (RAG)** and **AI Agent** systems  
 - Develop **computer vision models** for detection and classification  
-- Engineer **robust ML pipelines** using **PyTorch**, **LangChain**, **FastAPI**, and **AWS**
+- Engineer **robust ML/DL pipelines** using **PyTorch**, **LangChain**, **FastAPI**, and **AWS**
 
 ---
 
 ## Tech Stack
 
 **Languages:** Python, SQL, C++, Java 
-**Frameworks & Tools:** PyTorch, LangChain, HuggingFace, FastAPI, Scikit-learn, Streamlit, vLLM, Tensorflow  
-**Databases:** ChromaDB, SQLite, MS SQL Server  
-**Cloud:** AWS (Cloud Architecture & ML Engineer)  
+**Frameworks & Tools:** PyTorch, LangChain, Langgraph, Pydantic, HuggingFace Tramnsformers, FastAPI, Scikit-learn, Streamlit, vLLM, Tensorflow  
+**Databases:** ChromaDB, Supabase, Postgresql, SQLite, MS SQL Server  
+**Cloud:** AWS (Cloud Architecture & ML Engineer), Docker  
 **Other:** Weights & Biases, Ollama,   
 
 ---
 
 ## Recent Projects
+
+### [Love Pitch Deck Agent](https://github.com/HatemSal/presentation-agent)
+*FasAPI, Google GenAI SDK, Pydantic, ChromaDB
 
 ### [Obsidian Notes Agent](https://github.com/HatemSal/ObsidianNotes-Assistant)
 *LangChain, LangGraph, FastAPI, ChromaDB*  
