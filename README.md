@@ -25,8 +25,9 @@ I'm an **AI Engineer** passionate about building intelligent systems that combin
 
 ## Recent Projects
 
-### [Love Pitch Deck Agent](https://github.com/HatemSal/presentation-agent)
-*FasAPI, Google GenAI SDK, Pydantic, ChromaDB
+### [Live Pitch Deck Agent](https://github.com/HatemSal/presentation-agent)
+FasAPI, Google GenAI SDK, Pydantic, ChromaDB
+An agentic workflow that utilizes a RAG pipeline to turn static pitch decks into an interactive live experience
 
 ### [Obsidian Notes Agent](https://github.com/HatemSal/ObsidianNotes-Assistant)
 *LangChain, LangGraph, FastAPI, ChromaDB*  
